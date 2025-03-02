@@ -33,6 +33,6 @@ Return the _maximum distance_.
 ## Solutions
 
 - [JavaScript](./solution.js)
-- [Java](./solution.java)
+- [Java](./Solution.java)
 
 ## [Back to Main Page](../README.md)
