@@ -14,7 +14,8 @@ Given an integer array `nums`, return `true` if any value appears at least twice
 
 ## Example 3
 
-> **Input:** arrays = [1,1,1,3,3,4,3,2,4,2] > **Output:** true
+> **Input:** arrays = [1,1,1,3,3,4,3,2,4,2]
+> **Output:** true
 > **Explanation:** The element 1 occurs at the indices 0 and 3.
 
 ## Constraints
